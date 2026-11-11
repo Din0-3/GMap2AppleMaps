@@ -1,12 +1,12 @@
 # GMap2AppleMaps
 
-> 用 Google Maps 找地點，用 Apple Maps 導航。
+*用 Google Maps 找地點，用 Apple Maps 導航。*
 
-一個 iOS 捷徑（Shortcut）「**使用AppleMaps導航 (GPS)**」。
+GMap2AppleMaps是 一個 iOS 捷徑（Shortcut）：「**使用AppleMaps導航 (GPS)**」。
 
-在 Google Maps 按「分享」→ 選擇 `使用AppleMaps導航 (GPS)`，就會取出該地點的 GPS 座標，直接在 Apple Maps 開啟開車導航。
+在iphone上安裝好之後，在 Google Maps 按「分享」→ 選擇 `使用AppleMaps導航 (GPS)`，就會取出該地點的 GPS 座標，直接在 Apple Maps 開啟開車導航。
 
-兼顧 Google 的圖資和 Apple Maps 的導航介面。
+如此一來就可以兼顧 Google 的圖資和 Apple Maps 的導航介面。再也不用聽 Google 小姐叫你「**往西**」聽到血壓上升 🧭。
 
 > An iOS Shortcut that takes a place shared from Google Maps, resolves its exact coordinates, and opens turn-by-turn directions in Apple Maps.
 
@@ -32,11 +32,11 @@ https://www.icloud.com/shortcuts/d82e336b7b214dd38e212b3382254b0a
 
 ## 使用方式
 
-**標準用法：Google Maps app**
+**標準用法：手機版 Google Maps app**
 
-打開地點 → 分享 → 選「使用AppleMaps導航 (GPS)」
+打開地點 → 分享 → 選「使用AppleMaps導航 (GPS)」 →  會自動在apple maps 開啟導航到該地點的路線
 
-享受 Apple Maps 的優良導航 UI/UX，再也不用聽 Google 小姐叫你「**往西**」。
+
 
 **其他用法**
 
@@ -88,6 +88,7 @@ https://www.icloud.com/shortcuts/d82e336b7b214dd38e212b3382254b0a
 - 第 3 步使用的是 **Google 未公開的內部查詢網址**，不是正式 API，Google 改版時可能失效
 - 需要網路連線
 - 只導向單一地點，不支援 Google Maps 的路線規劃連結（多個停靠點）
+
 
 遇到問題時，請把跳出提示後剪貼簿裡的除錯資訊貼到 [Issues](../../issues)。
 
