@@ -32,6 +32,8 @@ https://www.icloud.com/shortcuts/d82e336b7b214dd38e212b3382254b0a
 
 ## 使用方式
 
+使用環境：限定iphone，必須要先安裝好`google maps`和apple自家的`地圖`兩個app才能開始使用
+
 **標準用法：手機版 Google Maps app**
 
 打開地點 → 分享 → 選「使用AppleMaps導航 (GPS)」 →  會自動在apple maps 開啟導航到該地點的路線
