@@ -6,7 +6,7 @@ GMap2AppleMaps是 一個 iOS 捷徑（Shortcut）：「**使用AppleMaps導航 (
 
 在iphone上安裝好之後，在 Google Maps 按「分享」→ 選擇 `使用AppleMaps導航 (GPS)`，就會取出該地點的 GPS 座標，直接在 Apple Maps 開啟開車導航。
 
-如此一來就可以兼顧 Google 的圖資和 Apple Maps 的導航介面。再也不用聽 Google 小姐叫你「**往西**」聽到血壓上升 🧭。
+如此一來就可以兼顧 Google 的圖資和 Apple Maps 的導航介面。再也不用聽 Google 小姐叫你「**往西**」聽到血壓上升 🧭，也不用再「**向右轉 然後 向左轉**」了😵‍💫
 
 > An iOS Shortcut that takes a place shared from Google Maps, resolves its exact coordinates, and opens turn-by-turn directions in Apple Maps.
 
